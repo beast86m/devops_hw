@@ -13,4 +13,10 @@ Jenkins установлен
 
 ![image](https://github.com/beast86m/devops_hw/assets/47268167/4b816aac-3fba-4975-96c1-a35d357df447)
 
+Jenkins Freestyle Project
 
+![image](https://github.com/beast86m/devops_hw/assets/47268167/5eae58da-133e-47da-8f92-013f1d2d27da)
+
+![image](https://github.com/beast86m/devops_hw/assets/47268167/f6195d83-1c38-416c-bbac-9c5dbbbff238)
+
+![image](https://github.com/beast86m/devops_hw/assets/47268167/7e76b2b2-e7f0-4fd1-838d-148d37809715)
