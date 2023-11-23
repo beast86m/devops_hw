@@ -7,4 +7,7 @@
 ![image](https://github.com/beast86m/devops_hw/assets/47268167/7b7e604d-056d-4376-8e93-a0e8a4200e3a)
 Jenkins установлен
 ![image](https://github.com/beast86m/devops_hw/assets/47268167/2b92b8fc-73b1-4e20-8e4d-15de3bb1bf99)
+Устанавливаем  GO
+![image](https://github.com/beast86m/devops_hw/assets/47268167/4b816aac-3fba-4975-96c1-a35d357df447)
+
 
