@@ -33,4 +33,10 @@ Jenkins Freestyle Project
 
 ![изображение](https://github.com/beast86m/devops_hw/assets/47268167/5d91479d-4c06-46f0-b6ef-834574d6dd3c)
 
+создаю raw-hosts
+
+![изображение](https://github.com/beast86m/devops_hw/assets/47268167/42720a01-2dc8-4915-8bb1-5dec59488d2d)
+
+![изображение](https://github.com/beast86m/devops_hw/assets/47268167/d8e2b156-e482-44a7-8967-c0b087ff78f0)
+
 
