@@ -1,4 +1,4 @@
-Задание 1
+**Задание 1**
 
 устанавливам Jenkins
 ![image](https://github.com/beast86m/devops_hw/assets/47268167/86cdef39-7e6e-4f28-a7e3-1239ec4eb06b)
@@ -18,3 +18,19 @@ Jenkins Freestyle Project
 ![image](https://github.com/beast86m/devops_hw/assets/47268167/5eae58da-133e-47da-8f92-013f1d2d27da)
 
 ![image](https://github.com/beast86m/devops_hw/assets/47268167/f6195d83-1c38-416c-bbac-9c5dbbbff238)
+
+**Задание 2**
+
+![изображение](https://github.com/beast86m/devops_hw/assets/47268167/40b28ab1-0108-4513-8bad-4714b7405795)
+
+![изображение](https://github.com/beast86m/devops_hw/assets/47268167/5e083dc3-f3f6-4310-943f-d96d807e2dfc)
+
+**Задание 3**
+
+Устанавливаем Nexus
+
+![изображение](https://github.com/beast86m/devops_hw/assets/47268167/630166c1-0011-4f86-bd1c-85072c0f7df1)
+
+![изображение](https://github.com/beast86m/devops_hw/assets/47268167/5d91479d-4c06-46f0-b6ef-834574d6dd3c)
+
+
