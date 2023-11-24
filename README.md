@@ -39,4 +39,12 @@ Jenkins Freestyle Project
 
 ![изображение](https://github.com/beast86m/devops_hw/assets/47268167/d8e2b156-e482-44a7-8967-c0b087ff78f0)
 
+собираю бинарный файл и отправляю в репозиторий
+
+![изображение](https://github.com/beast86m/devops_hw/assets/47268167/c253e98b-dccf-49de-8abb-930ef95ef3d3)
+
+локальный репозиторий:
+
+![изображение](https://github.com/beast86m/devops_hw/assets/47268167/03748476-bb08-48ce-b8e0-6b20ebc7c12d)
+
 
